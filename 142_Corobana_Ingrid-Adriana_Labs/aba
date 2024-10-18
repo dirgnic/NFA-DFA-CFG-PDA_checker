@@ -1,0 +1,11 @@
+Sigma:
+a
+b
+End
+States:
+frozenset({'q0'})
+frozenset({'q1'})
+frozenset({'q2'})
+End
+Transitions:
+End
