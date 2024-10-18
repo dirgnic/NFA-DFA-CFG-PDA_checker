@@ -1,1 +1,12 @@
 
+# Virtual environment
+venv/
+.env/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm specific files
+.idea/
+*.iml
