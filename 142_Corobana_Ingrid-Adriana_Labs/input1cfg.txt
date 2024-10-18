@@ -1,0 +1,21 @@
+# CFG Configuration Example
+Non-terminals:
+S
+A
+B
+End
+
+Terminals:
+a
+b
+End
+
+Productions:
+S -> A B
+A -> a A | a
+B -> b B | b
+End
+
+Start-symbol:
+S
+End
